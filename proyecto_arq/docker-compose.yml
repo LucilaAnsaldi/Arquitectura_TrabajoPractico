@@ -4,4 +4,4 @@ services:
   tp_arqui_frontend:
     image: lucilaansaldi/arquitectura_tp:v1
     ports: 
-      - 8080:80
+      - 80:80
