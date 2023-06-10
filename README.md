@@ -29,7 +29,7 @@ cd Arquitectura_TrabajoPractico
 ~~~
 6) Next, give execution permissions to the installation file to be able to run it later. This file contains the installation commands for Docker and Docker Compose. Enter the following in the console:
 ~~~
-chmod +x ./instalaciones.sh
+chmod +x instalaciones.sh
 ~~~
 ~~~
 ./instalaciones.sh
